@@ -1,1 +1,1 @@
-***Simple Sentiment Analysis projects using Python***
+***Simple AI projects using Python***
